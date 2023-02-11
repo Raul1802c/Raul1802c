@@ -1,12 +1,15 @@
 ### hola me llamo Raul Castro 
 
-<!--
-**Raul1802c/Raul1802c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Descripción
+- Mi nombre: Raul Rodrigo Castro Altamirano  Colegio que estudié : Hermano Felipe Palazon
+- Cuales son mis hoobbies: Es jugar fútbol y dormir 
 
-Here are some ideas to get you started:
+Describir los logros del colegio: Unos de mis logros fue salir segundo en  un campeonato de fútbol y sacar medalla de bronce en  una competencia  de informática  
 
-- The school where I studied: Hermano Felipe Palazon 
-- What are your hobbies: Es dormir y jugar fútbol ⚽️ 
-- Describe the achievements I obtained in school: Jugué un campeonato salimos 2 y gane varias competencias de programación saque medalla de oro en tarija y medalla de bronce en sucre 
-- why do you study the career: Por que me gusta mucho la progamacion 
+Por que estudias la carrera que estas actualmente? Estudio la carrera por que me llama mucho la atención la progamacion y la tecnología de hoy en día
 
+Cual seria el primer producto que crearias despues que salgas de la universidad? El primer producto que quisiera crear sería un videojuego y dedicarme al mundo de los videojuegos
+
+Que lenguajes de programacion conoces actualmente Conozco varios java,python,C# y Java Script 
+           
+          Mucho Éxito Para Todos 
